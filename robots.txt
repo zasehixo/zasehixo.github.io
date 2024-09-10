@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://zasehixo.github.io/sitemap/sitemap.txt
